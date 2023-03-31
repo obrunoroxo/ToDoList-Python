@@ -1,0 +1,68 @@
+{
+    "Each information": {
+        "ListBoardsNames": [
+            {
+                "boards_name": "TO-DO LIST | PYTHON"
+            },
+            {
+                "boards_name": "ReactCalendar-Projeto1"
+            }
+        ],
+        "ListNames": [
+            {
+                "list_name": "Initial Ideas"
+            },
+            {
+                "list_name": "Doing"
+            },
+            {
+                "list_name": "Done"
+            }
+        ],
+        "TasksList": [
+            {
+                "tasks_name": "Export CSV files"
+            },
+            {
+                "tasks_name": "Export PDF files"
+            },
+            {
+                "tasks_name": "Export XLSX/XLS files"
+            }
+        ]
+    },
+    "All informations": {
+        "AllDatas": [
+            {
+                "board_name": "TO-DO LIST | PYTHON",
+                "lists": [
+                    {
+                        "name": "Initial Ideas",
+                        "tasks": [
+                            {
+                                "task_one": "Export CSV files",
+                                "task_two": "Export PDF files",
+                                "task_three": "Export XLSX/XLS files"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "board_name": "ReactCalendar-Projeto1",
+                "lists": [
+                    {
+                        "name": "Initial Ideas",
+                        "tasks": [
+                            {
+                                "task_one": "Export CSV files",
+                                "task_two": "Export PDF files",
+                                "task_three": "Export XLSX/XLS files"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
