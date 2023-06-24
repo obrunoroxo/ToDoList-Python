@@ -52,7 +52,7 @@
                 "board_name": "ReactCalendar-Projeto1",
                 "lists": [
                     {
-                        "name": "Initial Ideas React",
+                        "name": "Initial Ideas",
                         "tasks": [
                             {
                                 "task_one": "Export CSV files",
